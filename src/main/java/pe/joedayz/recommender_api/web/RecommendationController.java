@@ -25,7 +25,8 @@ public class RecommendationController {
         new Movie(7, "Forrest Gump", 8.8),
         new Movie(8, "Inception", 8.8),
         new Movie(9, "The Lord of the Rings: The Fellowship of the Ring", 8.8),
-        new Movie(10, "Fight Club", 8.8)
+        new Movie(10, "Fight Club", 8.8),
+        new Movie(11, "The Lord of the Rings: The Two Towers", 8.7)
     );
   }
 }
